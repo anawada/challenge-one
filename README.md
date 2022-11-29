@@ -29,7 +29,8 @@ Deployed application: https://anawada.github.io/horiseon-seo/
 No installation required for final user.
 
 
-## Usage 
+## Usage ![screenshot](https://user-images.githubusercontent.com/108739635/204547034-366e13b7-ad5b-43c6-b6d6-5e583552cd5d.png)
+
 
 ```md
 ![meeting](assets/images/01-html-css-git-challenge-demo.png)
