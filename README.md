@@ -32,7 +32,7 @@ No installation required for final user.
 ## Usage 
 
 ```md
-![alt text](/assets/images/screenshot.png)
+![meeting](assets/images/screenshot.png)
 ```
 
 
