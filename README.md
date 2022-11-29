@@ -32,9 +32,9 @@ No installation required for final user.
 ## Usage 
 
 
-```md
+
 ![screenshot](https://user-images.githubusercontent.com/108739635/204547034-366e13b7-ad5b-43c6-b6d6-5e583552cd5d.png)
-```
+
 
 
 ## License
