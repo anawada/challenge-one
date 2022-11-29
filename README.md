@@ -22,7 +22,7 @@ Your website must meet accessibility standards. You can achieve this completing 
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
-Lastly, if your project is deployed, include a link to the deployed application here.
+Deployed application: https://anawada.github.io/horiseon-seo/
 
 ## Installation
 
