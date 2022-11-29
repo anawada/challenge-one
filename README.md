@@ -32,7 +32,7 @@ No installation required for final user.
 ## Usage 
 
 ```md
-![alt text](assets/images/01-html-css-git-challenge-demo.png)
+![meeting](assets/images/01-html-css-git-challenge-demo.png)
 ```
 
 
